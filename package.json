@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.7.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahsoka726/Bot-Discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ahsoka726/Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/Ahsoka726/Bot-Discord#readme"
 }
